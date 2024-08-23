@@ -196,11 +196,11 @@ div.buy-ticket{
     color: #ffffff;
 }
 .buy-ticket a:hover{
-    color: darkblue;
+    color: #08003c;
 }
 .btn-buy-ticket{
     font-size: 18px;
-    border: 1px solid blue;
+    border: 1px solid #08003c;
     background-color: transparent;
     text-transform: uppercase;
     padding: 10px 30px;
